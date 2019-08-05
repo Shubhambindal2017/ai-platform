@@ -1,4 +1,5 @@
 # Image Classification
+![](https://firebasestorage.googleapis.com/v0/b/dashboard-web-2e57e.appspot.com/o/images%2Fimg1.png?alt=media&token=efd48297-592a-4c7b-9d22-79ab7c083863)
 A ConvNet in TensorFlow for a classification problem.
 In detail, the following parameters for all the steps:
 
@@ -21,3 +22,5 @@ The model below should:
  
 Finally create a session and run a for loop for num_epochs, get the mini-batches, and then for each mini-batch optimize the function.
 This model recognizes SIGN language with almost 95 % and 80% accuracy on the train and test set respectively.
+![](https://firebasestorage.googleapis.com/v0/b/dashboard-web-2e57e.appspot.com/o/images%2Fimg2.png?alt=media&token=a2e9eeb8-b20f-426e-9ee6-f7515cd9934e)
+![](https://firebasestorage.googleapis.com/v0/b/dashboard-web-2e57e.appspot.com/o/images%2Fimg3.png?alt=media&token=481bda7d-8d58-4bcc-85d5-37d90eb12c06)
